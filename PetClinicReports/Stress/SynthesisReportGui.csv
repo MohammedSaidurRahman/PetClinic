@@ -1,0 +1,3 @@
+sampler_label,aggregate_report_count,average,aggregate_report_min,aggregate_report_max,aggregate_report_90%_line,aggregate_report_stddev,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,average_bytes
+HTTP Request,102,4643,157,7527,6769,1927.8984451574313,0.0,12.983706720977596,35.844666894730146,2827.0
+TOTAL,102,4643,157,7527,6769,1927.8984451574313,0.0,12.983706720977596,35.844666894730146,2827.0
